@@ -13,4 +13,4 @@
 ⚡ Fun fact **I am enthusiastic, funny and open minded person.**
 
 <h3> Connect Me </h3>
-<a href ="https://www.linkedin.com/in/omkar-ghanekar-211a68205/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/omkar-ghanekar-211a68205/"/> </a>
+<a href ="https://www.linkedin.com/in/omkar-ghanekar-211a68205/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/omkar-ghanekar-211a68205/" height="30px" width="30px"/> </a>
