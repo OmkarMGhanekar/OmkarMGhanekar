@@ -13,5 +13,5 @@
 ⚡ Fun fact **I am enthusiastic, funny and open minded person.**
 
 <h3> Connect To Me: </h3>
-<a href ="https://www.linkedin.com/in/omkar-ghanekar-211a68205/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/omkar-ghanekar-211a68205/" height="30px" width="30px"> </a>&nbsp 
-<a href = "https://www.instagram.com/_ghanekaromkar_/"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png"  height = "30px" width"30px"></a>
+<a href ="https://www.linkedin.com/in/omkar-ghanekar-211a68205/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  height="35px" width="35px"> </a>&nbsp 
+<a href = "https://www.instagram.com/_ghanekaromkar_/"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png"  height = "35px" width"35px"></a>
