@@ -15,3 +15,8 @@
 <h3> Connect To Me: </h3>
 <a href ="https://www.linkedin.com/in/omkar-ghanekar-211a68205/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  height="35px" width="35px"> </a>&nbsp 
 <a href = "https://www.instagram.com/_ghanekaromkar_/"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png"  height = "35px" width"35px"></a>
+
+<h3> Mobile Application Development: </h3>
+<a href="https://developer.android.com/"> <img src ="https://img-premium.flaticon.com/png/512/2374/premium/2374611.png?token=exp=1631779451~hmac=7db3e1a8bdffa14f3615ff6958de7f6a" height="35px" width="35px"></a>&nbsp
+<a href="https://www.java.com/en/"> <img src ="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="35px" width="35px"></a>&nbsp
+<a href="https://kotlinlang.org/"> <img src ="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" height="35px" width="35px"></a>&nbsp
