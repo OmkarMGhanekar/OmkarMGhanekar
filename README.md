@@ -20,3 +20,4 @@
 <a href="https://developer.android.com/"> <img src ="https://img-premium.flaticon.com/png/512/2374/premium/2374611.png?token=exp=1631779451~hmac=7db3e1a8bdffa14f3615ff6958de7f6a" height="35px" width="35px"></a>&nbsp
 <a href="https://www.java.com/en/"> <img src ="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="35px" width="35px"></a>&nbsp
 <a href="https://kotlinlang.org/"> <img src ="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" height="35px" width="35px"></a>&nbsp
+<a href="https://flutter.dev//"> <img src ="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png" height="35px" width="35px"></a>&nbsp
