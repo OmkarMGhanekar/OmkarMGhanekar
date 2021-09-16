@@ -24,3 +24,5 @@
 
 <h3> Programming Language: </h3>
 <a href="https://www.java.com/en/"> <img src ="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="35px" width="35px"></a>&nbsp
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"> <img src ="https://www.pngkit.com/png/detail/101-1010012_c-programming-icon-c-programming-language-logo.png" height="35px" width="35px"></a>&nbsp
+<a href="https://en.wikipedia.org/wiki/C%2B%2B"> <img src ="https://www.educationmesd.com/wp-content/uploads/2021/01/C.png" height="35px" width="35px"></a>&nbsp
