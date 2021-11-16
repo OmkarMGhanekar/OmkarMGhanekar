@@ -30,4 +30,6 @@
 
 <h3> Web Development </h3>
 
-<a href="https://www.w3schools.com/css/"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="35px" width = "35px"></a>&nbsp
+<a href="https://www.w3schools.com/css/"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="35px" width = "35px"></a>
+<a href="https://www.w3schools.com/html/"> <img src="https://w7.pngwing.com/pngs/390/229/png-transparent-logo-html5-brand-design-text-logo-number.png" height="35px" width = "35px"></a>
+
