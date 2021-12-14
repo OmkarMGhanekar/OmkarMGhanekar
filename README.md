@@ -26,7 +26,7 @@
 <a href="https://www.java.com/en/"> <img src ="https://cdn-icons-png.flaticon.com/512/226/226777.png" height="35px" width="35px"></a>&nbsp
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"> <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" height="35px" width="35px"></a>&nbsp
 <a href="https://en.wikipedia.org/wiki/C%2B%2B"> <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height="35px" width="35px"></a>&nbsp
-<a href="https://www.python.org/"> <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" height="35px" width="35px"></a>&nbsp
+<a href="https://www.python.org/"> <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" height="35px" width="35px"></a>&nbsp&nbsp
 
 <h3> Web Development </h3>
 
