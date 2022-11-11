@@ -6,7 +6,7 @@
 
 👨‍💻 All of my projects are available at **https://github.com/OmkarMGhanekar**
 
-💬 Ask me about **Android App Development, UI/UX Designing and more.**
+💬 Ask me about **Android App Development, Java, Flutter, UI/UX Designing and more.**
 
 📫 How to reach me **omkarghanekar12@gmail.com**
 
